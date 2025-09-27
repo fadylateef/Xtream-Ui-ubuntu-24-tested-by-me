@@ -23,4 +23,5 @@ I welcome your feedback.
 **Best regards**.
 
 ## Fix freezing streams start/stop
+enter this sql query inside database with x= main server id
 **DELETE FROM `user_activity_now` WHERE `user_activity_now`.`server_id` = X**
