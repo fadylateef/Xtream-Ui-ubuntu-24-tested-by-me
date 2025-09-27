@@ -22,5 +22,5 @@ I welcome your feedback.
 
 **Best regards**.
 
-fix freezing streams start/stop
-** DELETE FROM `user_activity_now` WHERE `user_activity_now`.`server_id` = X **
+## Fix freezing streams start/stop
+**DELETE FROM `user_activity_now` WHERE `user_activity_now`.`server_id` = X**
