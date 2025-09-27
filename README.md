@@ -21,3 +21,6 @@ This project has been created in appreciation of the efforts of **GTA**, **emre1
 I welcome your feedback.
 
 **Best regards**.
+
+fix freezing streams start/stop
+** DELETE FROM `user_activity_now` WHERE `user_activity_now`.`server_id` = X **
